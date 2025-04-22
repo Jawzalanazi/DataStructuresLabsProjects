@@ -6,6 +6,19 @@ Each folder contains the source code and any required files (ADT, helper classes
 
 
 
+
+### 📖 Lab 1 – Online Bookstore (Object-Oriented Programming)
+
+An online bookstore system utilizing **Object-Oriented Programming** concepts such as inheritance, encapsulation, and polymorphism. Features:
+
+- **View Available Books**: Display all available books in the store with their details (ID, title, author, price, quantity).
+- **Add Items to Cart**: Allows users to add books to their shopping cart.
+- **Remove Items from Cart**: Users can remove books from their cart by ID.
+- **Search Books by Title**: Users can search for books by title.
+- **Shopping Cart Management**: View, add, and remove items from the cart.
+
+
+
 ### 🏥 Lab 3 – Hospital Management System (Singly Linked List)
 A system for managing doctor and patient information using a **singly linked list**. Features:
 - Add patients to a waiting list
@@ -75,4 +88,11 @@ Key features of the project include:
 - `contains(Order o)` method: Checks if a specific order exists in the tree using the item's price as the key.
 
 
+
+### 📚 Lab 11 – Hash Table Implementation (Collision Handling)
+A project implementing a **HashTable** using various collision handling techniques. Features:
+- **Linear Probing**: Handles collisions by checking the next available slot in a linear sequence.
+- **Quadratic Probing**: Uses a quadratic sequence to resolve collisions.
+- **Double Hashing**: Uses a second hash function to calculate an offset for collision resolution.
+- Operations include inserting, probing, removing, and printing elements in the hash table.
 
